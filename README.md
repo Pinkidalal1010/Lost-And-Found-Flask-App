@@ -26,7 +26,7 @@ Deployment	Heroku / Render / Localhost
 
 ## 🚀 Getting Started
 1️⃣ Clone the Repository
-git clone https://github.com/tushar-1920/lost-and-found.git
+git clone https://github.com/Pinkidalal1010/lost-and-found.git
 cd lost-and-found
 
 2️⃣ Create & Activate Virtual Environment
